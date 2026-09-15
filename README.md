@@ -150,40 +150,29 @@ January 2025 – March 2025
 
 ---
 
-## 📊 GitHub Analytics
-
+📊 GitHub Stats
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Gaurav's GitHub statistics"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Gaurav's most used languages"
-  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Gaurav7131&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Gaurav7131&theme=tokyonight&hide_border=true"
-    alt="Gaurav's GitHub contribution streak"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav7131&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" />
 </p>
 
----
-
-## 🐍 Contribution Activity
-
+🧩 Top Languages
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="top languages" />
 </p>
----
 
+🐍 Contribution Snake
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake.svg" />
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake.svg" />
+</picture>
+</p>
 ## 🎓 Education
 
 - **Bachelor of Engineering — Computer Science and Engineering**  
