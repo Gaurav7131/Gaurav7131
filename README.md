@@ -149,30 +149,24 @@ January 2025 – March 2025
 - Worked with Express.js, JavaScript, HTML, CSS, and REST APIs.
 
 ---
-📊 GitHub Stats
-<!--
-NOTE: the public github-readme-stats instance (github-readme-stats.vercel.app)
-is currently PAUSED and returns HTTP 503. Deploy your own free copy from
-https://github.com/gaurav-thakare/github-readme-stats#deploy-on-your-own-vercel-instance
-then replace YOUR-VERCEL-APP below with your deployment's subdomain.
--->
+<!-- 📊 GitHub Stats & Streak -->
 <p align="center">
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true)
-<img height="180em" src="https://streak-stats.demolab.com/?user=Gaurav7131&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_bust=2" alt="GitHub stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Gaurav7131&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
-🧩 Top Languages
+<!-- 🧩 Top Languages -->
 <p align="center">
-<img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="top languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-🐍 Contribution Snake
+<!-- 🐍 Contribution Snake -->
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake.svg" />
-<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 ## 🎓 Education
 
