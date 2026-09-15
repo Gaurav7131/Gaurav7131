@@ -153,12 +153,23 @@ January 2025 – March 2025
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true" alt="Gaurav's most used languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Gaurav's GitHub statistics"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Gaurav's most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav7131&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Gaurav7131&theme=tokyonight&hide_border=true"
+    alt="Gaurav's GitHub contribution streak"
+  />
 </p>
 
 ---
@@ -166,7 +177,10 @@ January 2025 – March 2025
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
 </p>
 ---
 
