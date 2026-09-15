@@ -165,6 +165,11 @@ January 2025 – March 2025
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="top languages" />
 </p>
 
+🗓️ Contribution Calendar
+<p align="center">
+<img src="https://ghchart.rshah.org/7aa2f7/Gaurav7131" alt="Gaurav7131's contribution calendar" width="100%" />
+</p>
+
 🐍 Contribution Snake
 <p align="center">
 <picture>
