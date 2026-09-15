@@ -168,7 +168,6 @@ January 2025 – March 2025
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
-
 ---
 
 ## 🎓 Education
