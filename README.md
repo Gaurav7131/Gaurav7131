@@ -150,24 +150,20 @@ January 2025 – March 2025
 
 ---
 
-📊 GitHub Stats
+<!--
+NOTE: the public github-readme-stats instance (github-readme-stats.vercel.app)
+is currently PAUSED and returns HTTP 503. Deploy your own free copy from
+https://github.com/gaurav-thakare/github-readme-stats#deploy-on-your-own-vercel-instance
+then replace YOUR-VERCEL-APP below with your deployment's subdomain.
+-->
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Gaurav7131&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav7131&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" />
+<img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=Gaurav7131&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 🧩 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="top languages" />
-</p>
-
-🗓️ Contribution Calendar
-<p align="center">
-<img src="https://ghchart.rshah.org/7aa2f7/Gaurav7131" alt="Gaurav7131's contribution calendar" width="100%" />
+<img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="top languages" />
 </p>
 
 🐍 Contribution Snake
