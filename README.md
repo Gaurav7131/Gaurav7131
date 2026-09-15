@@ -149,7 +149,7 @@ January 2025 – March 2025
 - Worked with Express.js, JavaScript, HTML, CSS, and REST APIs.
 
 ---
-
+📊 GitHub Stats
 <!--
 NOTE: the public github-readme-stats instance (github-readme-stats.vercel.app)
 is currently PAUSED and returns HTTP 503. Deploy your own free copy from
@@ -157,7 +157,7 @@ https://github.com/gaurav-thakare/github-readme-stats#deploy-on-your-own-vercel-
 then replace YOUR-VERCEL-APP below with your deployment's subdomain.
 -->
 <p align="center">
-<img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
 <img height="180em" src="https://streak-stats.demolab.com/?user=Gaurav7131&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
