@@ -157,7 +157,7 @@ https://github.com/gaurav-thakare/github-readme-stats#deploy-on-your-own-vercel-
 then replace YOUR-VERCEL-APP below with your deployment's subdomain.
 -->
 <p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_bust=1)
 <img height="180em" src="https://streak-stats.demolab.com/?user=Gaurav7131&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
