@@ -36,7 +36,7 @@ I’m an entry-level Software Engineer focused on building reliable backend syst
 - ⚡ Working with **Apache Kafka, Temporal, PostgreSQL, and API gateways**
 - 🧪 Passionate about testing, debugging, and clean architecture
 - 🎓 Bachelor of Engineering in Computer Science and Engineering
-- 📍 Yavatmal, Maharashtra, India
+- 📍 Pune, Maharashtra, India
 - 📫 `thakaregaurav7131@gmail.com`
 
 ---
