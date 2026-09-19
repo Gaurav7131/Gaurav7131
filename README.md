@@ -72,7 +72,7 @@ I’m an entry-level Software Engineer focused on building reliable backend syst
 ### Tools and Practices
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,idea" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" alt="Tools" />
 </p>
 
 - Spring Data JPA
@@ -94,7 +94,7 @@ I’m an entry-level Software Engineer focused on building reliable backend syst
     <td width="50%">
       <h3 align="center">SPAC Lifecycle Manager</h3>
       <p align="center">
-        <a href="https://github.com/Gaurav7131/spac-core-service">
+        <a href="https://github.com/Gaurav7131/spac-lifecycle-manager">
           <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SPAC project" />
         </a>
       </p>
@@ -149,10 +149,10 @@ January 2025 – March 2025
 - Worked with Express.js, JavaScript, HTML, CSS, and REST APIs.
 
 ---
-<!-- 📊 GitHub Stats & Streak -->
+
+<!-- 📊 GitHub Stats -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_bust=2" alt="GitHub stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Gaurav7131&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 <!-- 🧩 Top Languages -->
@@ -168,6 +168,7 @@ January 2025 – March 2025
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/gh-pages/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 ## 🎓 Education
 
 - **Bachelor of Engineering — Computer Science and Engineering**  
