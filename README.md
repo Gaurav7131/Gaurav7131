@@ -8,7 +8,7 @@ Software Engineer | Java Backend Developer | FinTech Enthusiast
 
 <p align="center">
   <a href="https://github.com/Gaurav7131">
-    <img src="https://komarev.com/ghpvc/?username=Gaurav7131&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://hits.sh/github.com/Gaurav7131.svg?label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="mailto:thakaregaurav7131@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
